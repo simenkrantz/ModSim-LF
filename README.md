@@ -5,3 +5,5 @@ Contains solutions for exercises given in the course TTK4130 Modelling and Simul
 The majority of these exercises are new as of spring 2019.
 
 Good luck, have fun.
+
+![Gøygøy](Gøygøy.jpg)
